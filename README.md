@@ -1,6 +1,8 @@
 # rocm-pytorch-gfx803
 Copy of rocm/pytorch with gfx803 cards compiled in (see https://github.com/xuhuisheng/rocm-build/blob/develop/docs/gfx803.md)
 
+I made a guide for AMD GPUs in KVM using pytorch: https://github.com/jrcichra/pytorch-amd-kvm-guide
+
 See the original docker hub page for usage: https://hub.docker.com/r/rocm/pytorch
 And see @xuhuisheng's report: https://github.com/xuhuisheng/rocm-build/blob/develop/docs/gfx803.md.
 
